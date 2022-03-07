@@ -1416,7 +1416,7 @@ button:focus {
     top: auto;
     bottom: 0;
     left: 0;
-    height: 4.1125rem;
+    height: 4.2rem;
     width: 100%;
     z-index: 1112;
   }
@@ -1428,7 +1428,7 @@ button:focus {
 @media only screen and (max-width: 580px) {
   .nav-container {
     border-radius: var(--radius-12) var(--radius-12) 0 0;
-    height: 3rem;
+    height: 3.9rem;
     padding-right: 1rem;
     padding-left: 1rem;
   }
