@@ -1460,13 +1460,13 @@ button:focus {
 
 @media only screen and (max-width: 768px) {
   .nav {
-    font-size: 0.875rem;
+    font-size: 0.975rem;
   }
 }
 
 @media only screen and (max-width: 580px) {
   .nav {
-    font-size: 0.6875rem;
+    font-size: 0.875rem;
   }
 }
 
