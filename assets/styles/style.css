@@ -1488,7 +1488,6 @@ button:focus {
 
 .nav__item a {
   background: none;
-  font-size: 1.0575rem;
   color: var(--color-paragraph);
   -webkit-text-fill-color: inherit;
   font-weight: 500;
