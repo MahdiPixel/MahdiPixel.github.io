@@ -536,7 +536,7 @@ a.link-gradient {
   border-radius: var(--radius-14);
   display: block;
   padding: 0.8125rem 1.1875rem;
-  resize: none;
+  resize: vertical;
 }
 
 .form-group {
