@@ -1,5 +1,5 @@
 {
-  "background_color": "#ffffff",
+  "background_color": "#1e1e1f",
   "display": "standalone",
   "name": "مهدی اله وردی",
   "orientation": "any",
@@ -8,7 +8,18 @@
   "start_url": "/",
   "theme_color": "#121212",
   "categories": [],
-  "screenshots": [],
+  "screenshots": [
+    {
+      "src": "/assets/images/favicons/screenshot-mobile.png",
+      "sizes": "631x1280",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/images/favicons/screenshot-wide.png",
+      "sizes": "1280x720",
+      "type": "image/png"
+    }
+  ],
   "icons": [
     {
       "src": "/assets/images/favicons/windows11/SmallTile.scale-100.png",
@@ -459,7 +470,20 @@
       "sizes": "1024x1024"
     }
   ],
-  "shortcuts": [],
+  "shortcuts": [
+    {
+      "name": "مشاهده رزومه",
+      "url": "/resume.html"
+    },
+    {
+      "name": "نمونه کارهای من",
+      "url": "/portfolio.html"
+    },
+    {
+      "name": "تماس با من",
+      "url": "/contact.html"
+    }
+  ],
   "description": "رزومه مهدی اله وردی",
   "dir": "rtl"
 }
