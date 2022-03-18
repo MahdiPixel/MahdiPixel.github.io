@@ -2,11 +2,12 @@
   "background_color": "#1e1e1f",
   "display": "standalone",
   "name": "مهدی اله وردی",
-  "orientation": "any",
+  "orientation": "portrait-primary",
   "scope": "/",
   "short_name": "مهدی‌اله‌وردی",
   "start_url": "/",
   "theme_color": "#121212",
+  "lang": "fa",
   "categories": [],
   "screenshots": [
     {
