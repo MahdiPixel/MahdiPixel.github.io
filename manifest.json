@@ -11,676 +11,452 @@
   "screenshots": [],
   "icons": [
     {
-      "src": "blob:https://www.pwabuilder.com/086c0a76-e481-4a28-9efe-df3e9d9f8382",
-      "type": "image/png",
-      "sizes": "71x71",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/SmallTile.scale-100.png",
+      "sizes": "71x71"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/ace558c6-0341-4371-bd22-86359f0bca7e",
-      "type": "image/png",
-      "sizes": "89x89",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/SmallTile.scale-125.png",
+      "sizes": "89x89"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/00f8edc2-f45a-43a7-a9eb-def7a8a4cdf4",
-      "type": "image/png",
-      "sizes": "107x107",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/SmallTile.scale-150.png",
+      "sizes": "107x107"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/48cadd09-be9d-451a-a92e-5afc1aa35a8f",
-      "type": "image/png",
-      "sizes": "142x142",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/SmallTile.scale-200.png",
+      "sizes": "142x142"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/26578208-093c-4a72-b509-9dd6f1a3f0b2",
-      "type": "image/png",
-      "sizes": "284x284",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/SmallTile.scale-400.png",
+      "sizes": "284x284"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/620e3f66-587a-4bda-9d4f-f5f4b2d4e7ad",
-      "type": "image/png",
-      "sizes": "150x150",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square150x150Logo.scale-100.png",
+      "sizes": "150x150"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/72110a0e-5d9b-4c1a-b4d8-48d30572c459",
-      "type": "image/png",
-      "sizes": "188x188",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square150x150Logo.scale-125.png",
+      "sizes": "188x188"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/30ba436d-de57-4580-9f67-c8bb4c7afb1c",
-      "type": "image/png",
-      "sizes": "225x225",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square150x150Logo.scale-150.png",
+      "sizes": "225x225"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/7a5fec2e-9fec-448e-9c65-ef6c3f3eef9f",
-      "type": "image/png",
-      "sizes": "300x300",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square150x150Logo.scale-200.png",
+      "sizes": "300x300"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/993d4567-5cc8-4c87-bef9-0ecc963297cc",
-      "type": "image/png",
-      "sizes": "600x600",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square150x150Logo.scale-400.png",
+      "sizes": "600x600"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/e0cc7028-6004-4bf5-91e4-dd8cd58f1f76",
-      "type": "image/png",
-      "sizes": "310x150",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Wide310x150Logo.scale-100.png",
+      "sizes": "310x150"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/f5a6aa26-9405-48f6-8eb4-87d9f3987301",
-      "type": "image/png",
-      "sizes": "388x188",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Wide310x150Logo.scale-125.png",
+      "sizes": "388x188"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/4026ad47-56a8-4d0c-8fdb-0497d416dfbe",
-      "type": "image/png",
-      "sizes": "465x225",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Wide310x150Logo.scale-150.png",
+      "sizes": "465x225"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/27cc9189-bb5e-42f6-af34-7ebedaf8782b",
-      "type": "image/png",
-      "sizes": "620x300",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Wide310x150Logo.scale-200.png",
+      "sizes": "620x300"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/bf575ac9-9ad7-4ad5-8d6f-ce861b708d71",
-      "type": "image/png",
-      "sizes": "1240x600",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Wide310x150Logo.scale-400.png",
+      "sizes": "1240x600"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/6ff72c11-d688-4fe0-8700-3e067c314cb8",
-      "type": "image/png",
-      "sizes": "310x310",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/LargeTile.scale-100.png",
+      "sizes": "310x310"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/75e83414-b1a2-449b-8e7b-ec732485e934",
-      "type": "image/png",
-      "sizes": "388x388",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/LargeTile.scale-125.png",
+      "sizes": "388x388"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/c0d1f8e9-9c20-4c6c-a1ba-22ee8ba6b164",
-      "type": "image/png",
-      "sizes": "465x465",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/LargeTile.scale-150.png",
+      "sizes": "465x465"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/2a725cb1-82e3-4eea-ae1f-8ad9813516c5",
-      "type": "image/png",
-      "sizes": "620x620",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/LargeTile.scale-200.png",
+      "sizes": "620x620"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/b66cf5d4-8fad-4be5-991d-d773fbf47809",
-      "type": "image/png",
-      "sizes": "1240x1240",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/LargeTile.scale-400.png",
+      "sizes": "1240x1240"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/d8f820f8-6b55-4279-a5eb-847bc3fee8dc",
-      "type": "image/png",
-      "sizes": "44x44",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.scale-100.png",
+      "sizes": "44x44"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/b2913040-774b-47a2-9444-961a27036df7",
-      "type": "image/png",
-      "sizes": "55x55",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.scale-125.png",
+      "sizes": "55x55"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/e458c9a1-d368-4723-88e5-ebcde0536c12",
-      "type": "image/png",
-      "sizes": "66x66",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.scale-150.png",
+      "sizes": "66x66"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/128de9b1-d29e-4ef8-a481-aa54f206d953",
-      "type": "image/png",
-      "sizes": "88x88",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.scale-200.png",
+      "sizes": "88x88"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/762aee1c-e9c7-432b-a32e-625eb42951dc",
-      "type": "image/png",
-      "sizes": "176x176",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.scale-400.png",
+      "sizes": "176x176"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/f88d8cd2-ed3b-4a69-9536-b0567adda286",
-      "type": "image/png",
-      "sizes": "50x50",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/StoreLogo.scale-100.png",
+      "sizes": "50x50"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/4ed6a01c-ea61-400b-85b3-a738905b9f55",
-      "type": "image/png",
-      "sizes": "63x63",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/StoreLogo.scale-125.png",
+      "sizes": "63x63"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/55456d5d-5538-4967-a18c-c0ead232cd0d",
-      "type": "image/png",
-      "sizes": "75x75",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/StoreLogo.scale-150.png",
+      "sizes": "75x75"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/93c87334-6e07-44ec-8e28-9576da5c6883",
-      "type": "image/png",
-      "sizes": "100x100",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/StoreLogo.scale-200.png",
+      "sizes": "100x100"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/f5131db0-c348-4977-8c33-633ba40cbdbd",
-      "type": "image/png",
-      "sizes": "200x200",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/StoreLogo.scale-400.png",
+      "sizes": "200x200"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/2fae52f8-7dbd-47fd-8b05-4b8594c3cc02",
-      "type": "image/png",
-      "sizes": "620x300",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/SplashScreen.scale-100.png",
+      "sizes": "620x300"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/20f33f46-d5c7-4da5-b82a-d1b98b4006c7",
-      "type": "image/png",
-      "sizes": "775x375",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/SplashScreen.scale-125.png",
+      "sizes": "775x375"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/f98c2c25-e4cb-498d-a41b-49b3b8c6e5f9",
-      "type": "image/png",
-      "sizes": "930x450",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/SplashScreen.scale-150.png",
+      "sizes": "930x450"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/fc0a4d25-0176-4e42-9e02-78ded0dfadc2",
-      "type": "image/png",
-      "sizes": "1240x600",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/SplashScreen.scale-200.png",
+      "sizes": "1240x600"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/6b536b49-2212-4414-bf60-6499c519c0f1",
-      "type": "image/png",
-      "sizes": "2480x1200",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/SplashScreen.scale-400.png",
+      "sizes": "2480x1200"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/2398d634-dea6-477e-808d-dc59922bd844",
-      "type": "image/png",
-      "sizes": "16x16",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.targetsize-16.png",
+      "sizes": "16x16"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/df8008bb-c57e-40fc-9efa-a1550c621897",
-      "type": "image/png",
-      "sizes": "20x20",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.targetsize-20.png",
+      "sizes": "20x20"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/f54a5d93-8641-47b7-b2d0-82a16cc2ebaf",
-      "type": "image/png",
-      "sizes": "24x24",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.targetsize-24.png",
+      "sizes": "24x24"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/0f8d3e50-e1a4-4f1f-bdef-0eccee55bdc9",
-      "type": "image/png",
-      "sizes": "30x30",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.targetsize-30.png",
+      "sizes": "30x30"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/a7ca423d-0ab4-478a-87b3-7ff0fdd01154",
-      "type": "image/png",
-      "sizes": "32x32",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.targetsize-32.png",
+      "sizes": "32x32"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/a4767e3f-7c9a-43e7-8fe9-01fc5f3fb9d7",
-      "type": "image/png",
-      "sizes": "36x36",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.targetsize-36.png",
+      "sizes": "36x36"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/86a510aa-bdf9-45ee-a367-d466729ab77b",
-      "type": "image/png",
-      "sizes": "40x40",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.targetsize-40.png",
+      "sizes": "40x40"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/6425c827-83de-4fcc-b9b9-20532338a844",
-      "type": "image/png",
-      "sizes": "44x44",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.targetsize-44.png",
+      "sizes": "44x44"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/b9b76a59-67ee-4c76-89fe-745469bc245b",
-      "type": "image/png",
-      "sizes": "48x48",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.targetsize-48.png",
+      "sizes": "48x48"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/d37f78f9-e082-431d-9bcc-b48f54ddd23a",
-      "type": "image/png",
-      "sizes": "60x60",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.targetsize-60.png",
+      "sizes": "60x60"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/115e7ad5-a4d6-4ded-a8a1-8b0d4d56782d",
-      "type": "image/png",
-      "sizes": "64x64",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.targetsize-64.png",
+      "sizes": "64x64"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/8d8c3490-fd87-410d-9282-e014d9491ae8",
-      "type": "image/png",
-      "sizes": "72x72",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.targetsize-72.png",
+      "sizes": "72x72"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/16fd02b5-854b-4a2e-9e70-9b89ad734bec",
-      "type": "image/png",
-      "sizes": "80x80",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.targetsize-80.png",
+      "sizes": "80x80"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/b4cc7019-2a82-49d0-bf24-9aafe0c1f764",
-      "type": "image/png",
-      "sizes": "96x96",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.targetsize-96.png",
+      "sizes": "96x96"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/5bd1ad1d-4aec-4f97-beb0-fd4049dcff91",
-      "type": "image/png",
-      "sizes": "256x256",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.targetsize-256.png",
+      "sizes": "256x256"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/46dd3b87-8e19-415d-b5ea-54d556fc46fb",
-      "type": "image/png",
-      "sizes": "16x16",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.altform-unplated_targetsize-16.png",
+      "sizes": "16x16"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/faad533f-8266-4aa7-b9da-4be7df39eb53",
-      "type": "image/png",
-      "sizes": "20x20",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.altform-unplated_targetsize-20.png",
+      "sizes": "20x20"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/125116a8-01d3-49f2-aad8-a42fd6d36bfb",
-      "type": "image/png",
-      "sizes": "24x24",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.altform-unplated_targetsize-24.png",
+      "sizes": "24x24"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/a8d7111b-ae82-40b1-ba56-a658d6333615",
-      "type": "image/png",
-      "sizes": "30x30",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.altform-unplated_targetsize-30.png",
+      "sizes": "30x30"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/d836a845-e20a-4354-8ed9-bcf48e194704",
-      "type": "image/png",
-      "sizes": "32x32",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.altform-unplated_targetsize-32.png",
+      "sizes": "32x32"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/3ebcb058-1ab4-4070-bb10-8b890c589b07",
-      "type": "image/png",
-      "sizes": "36x36",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.altform-unplated_targetsize-36.png",
+      "sizes": "36x36"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/ba7302fd-2ce3-418c-a462-2049d390fadb",
-      "type": "image/png",
-      "sizes": "40x40",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.altform-unplated_targetsize-40.png",
+      "sizes": "40x40"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/26d9d186-6816-460d-8970-a858c2b391c9",
-      "type": "image/png",
-      "sizes": "44x44",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.altform-unplated_targetsize-44.png",
+      "sizes": "44x44"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/bf37ca97-bfa9-4c8e-96cd-332713703521",
-      "type": "image/png",
-      "sizes": "48x48",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.altform-unplated_targetsize-48.png",
+      "sizes": "48x48"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/d5735f6a-634d-4646-af1e-ab315b0352d4",
-      "type": "image/png",
-      "sizes": "60x60",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.altform-unplated_targetsize-60.png",
+      "sizes": "60x60"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/3fe8250f-3ff7-43e5-8177-7f324ce4ee7a",
-      "type": "image/png",
-      "sizes": "64x64",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.altform-unplated_targetsize-64.png",
+      "sizes": "64x64"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/6841f171-23ba-4d7a-9164-493cd7e39c6c",
-      "type": "image/png",
-      "sizes": "72x72",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.altform-unplated_targetsize-72.png",
+      "sizes": "72x72"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/048e9676-0bff-4b7e-8dea-217dd418a97a",
-      "type": "image/png",
-      "sizes": "80x80",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.altform-unplated_targetsize-80.png",
+      "sizes": "80x80"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/f78565d8-fecd-404a-add6-3e6f4681786c",
-      "type": "image/png",
-      "sizes": "96x96",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.altform-unplated_targetsize-96.png",
+      "sizes": "96x96"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/fc5fb1d7-8857-4beb-a5f5-3fd732694859",
-      "type": "image/png",
-      "sizes": "256x256",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.altform-unplated_targetsize-256.png",
+      "sizes": "256x256"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/4985744d-de93-4bd6-9eb7-fae20535e65f",
-      "type": "image/png",
-      "sizes": "16x16",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.altform-lightunplated_targetsize-16.png",
+      "sizes": "16x16"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/9c836ab0-4148-4459-9fba-6ce2496229a4",
-      "type": "image/png",
-      "sizes": "20x20",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.altform-lightunplated_targetsize-20.png",
+      "sizes": "20x20"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/ce647d5b-4026-425f-b784-408355cdf191",
-      "type": "image/png",
-      "sizes": "24x24",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.altform-lightunplated_targetsize-24.png",
+      "sizes": "24x24"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/59f03d28-61c7-4fcf-9729-908632e2cb18",
-      "type": "image/png",
-      "sizes": "30x30",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.altform-lightunplated_targetsize-30.png",
+      "sizes": "30x30"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/47cabb8c-258f-4e18-804d-47477717eeb1",
-      "type": "image/png",
-      "sizes": "32x32",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.altform-lightunplated_targetsize-32.png",
+      "sizes": "32x32"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/ca6bc45d-666d-4027-b7b4-29013adc6f3d",
-      "type": "image/png",
-      "sizes": "36x36",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.altform-lightunplated_targetsize-36.png",
+      "sizes": "36x36"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/89f07032-de9e-4017-b472-58eb032a3919",
-      "type": "image/png",
-      "sizes": "40x40",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.altform-lightunplated_targetsize-40.png",
+      "sizes": "40x40"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/0dcb9a4b-4023-4f1c-8767-6b3a828c2e0d",
-      "type": "image/png",
-      "sizes": "44x44",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.altform-lightunplated_targetsize-44.png",
+      "sizes": "44x44"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/6c1332db-7ff9-4acc-973a-8fab1197c342",
-      "type": "image/png",
-      "sizes": "48x48",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.altform-lightunplated_targetsize-48.png",
+      "sizes": "48x48"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/906aabbb-6c24-4105-b093-38054a12d4cc",
-      "type": "image/png",
-      "sizes": "60x60",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.altform-lightunplated_targetsize-60.png",
+      "sizes": "60x60"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/809c8c66-05c6-4e21-94af-629709eca542",
-      "type": "image/png",
-      "sizes": "64x64",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.altform-lightunplated_targetsize-64.png",
+      "sizes": "64x64"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/670ea47b-a824-4ba4-9934-d15d83c4d411",
-      "type": "image/png",
-      "sizes": "72x72",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.altform-lightunplated_targetsize-72.png",
+      "sizes": "72x72"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/6bae18c2-c0bb-4e6d-94ec-00d9cc3b675c",
-      "type": "image/png",
-      "sizes": "80x80",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.altform-lightunplated_targetsize-80.png",
+      "sizes": "80x80"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/ba500577-9076-4063-b13c-0abf09736efd",
-      "type": "image/png",
-      "sizes": "96x96",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.altform-lightunplated_targetsize-96.png",
+      "sizes": "96x96"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/9d26f270-12d3-42f3-b78b-cc4a700ea5b6",
-      "type": "image/png",
-      "sizes": "256x256",
-      "purpose": "any"
+      "src": "/assets/images/favicons/windows11/Square44x44Logo.altform-lightunplated_targetsize-256.png",
+      "sizes": "256x256"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/8cc579c0-0b5d-4194-a56a-595a4c11d035",
-      "type": "image/png",
-      "sizes": "512x512",
-      "purpose": "any"
+      "src": "/assets/images/favicons/android/android-launchericon-512-512.png",
+      "sizes": "512x512"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/661583f7-6683-4cc0-b1b4-eb11b0c3daa7",
-      "type": "image/png",
-      "sizes": "192x192",
-      "purpose": "any"
+      "src": "/assets/images/favicons/android/android-launchericon-192-192.png",
+      "sizes": "192x192"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/199acf82-dd7a-4426-92e8-a88282482844",
-      "type": "image/png",
-      "sizes": "144x144",
-      "purpose": "any"
+      "src": "/assets/images/favicons/android/android-launchericon-144-144.png",
+      "sizes": "144x144"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/b4e71054-456e-4b4d-9abc-cdcf28cfa27b",
-      "type": "image/png",
-      "sizes": "96x96",
-      "purpose": "any"
+      "src": "/assets/images/favicons/android/android-launchericon-96-96.png",
+      "sizes": "96x96"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/b7ce5b17-621c-4082-bf07-13ab1a23b9a9",
-      "type": "image/png",
-      "sizes": "72x72",
-      "purpose": "any"
+      "src": "/assets/images/favicons/android/android-launchericon-72-72.png",
+      "sizes": "72x72"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/c217bde4-3c20-4bfc-837b-de52bbcd0d75",
-      "type": "image/png",
-      "sizes": "48x48",
-      "purpose": "any"
+      "src": "/assets/images/favicons/android/android-launchericon-48-48.png",
+      "sizes": "48x48"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/8a0c0872-dbe9-4778-b775-45c1e9208d58",
-      "type": "image/png",
-      "sizes": "16x16",
-      "purpose": "any"
+      "src": "/assets/images/favicons/ios/16.png",
+      "sizes": "16x16"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/3c77634f-d926-451a-973b-0c37c2023f91",
-      "type": "image/png",
-      "sizes": "20x20",
-      "purpose": "any"
+      "src": "/assets/images/favicons/ios/20.png",
+      "sizes": "20x20"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/2c9d0124-c47e-4ecb-9816-b56699974c8f",
-      "type": "image/png",
-      "sizes": "29x29",
-      "purpose": "any"
+      "src": "/assets/images/favicons/ios/29.png",
+      "sizes": "29x29"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/873795f6-ed25-4d83-a2ca-d6c4ed5e3a4e",
-      "type": "image/png",
-      "sizes": "32x32",
-      "purpose": "any"
+      "src": "/assets/images/favicons/ios/32.png",
+      "sizes": "32x32"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/8d7cd8e2-f1d6-495e-a6c6-b15a397da627",
-      "type": "image/png",
-      "sizes": "40x40",
-      "purpose": "any"
+      "src": "/assets/images/favicons/ios/40.png",
+      "sizes": "40x40"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/d95d3d70-6c10-422b-9c5f-1ed6b1459471",
-      "type": "image/png",
-      "sizes": "50x50",
-      "purpose": "any"
+      "src": "/assets/images/favicons/ios/50.png",
+      "sizes": "50x50"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/42d1d279-9ae2-473c-b71d-91d52e4db7ed",
-      "type": "image/png",
-      "sizes": "57x57",
-      "purpose": "any"
+      "src": "/assets/images/favicons/ios/57.png",
+      "sizes": "57x57"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/d7516d53-5874-4616-acaf-4142765bdcd8",
-      "type": "image/png",
-      "sizes": "58x58",
-      "purpose": "any"
+      "src": "/assets/images/favicons/ios/58.png",
+      "sizes": "58x58"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/665682bb-b060-47cc-a969-e96df9c0386b",
-      "type": "image/png",
-      "sizes": "60x60",
-      "purpose": "any"
+      "src": "/assets/images/favicons/ios/60.png",
+      "sizes": "60x60"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/21a7f69d-a699-4bdf-a4ae-13a40e8fa67e",
-      "type": "image/png",
-      "sizes": "64x64",
-      "purpose": "any"
+      "src": "/assets/images/favicons/ios/64.png",
+      "sizes": "64x64"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/3e177ada-4c8f-4419-a849-5404aeddf510",
-      "type": "image/png",
-      "sizes": "72x72",
-      "purpose": "any"
+      "src": "/assets/images/favicons/ios/72.png",
+      "sizes": "72x72"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/a058bb59-ead2-46b8-966f-349466806fe5",
-      "type": "image/png",
-      "sizes": "76x76",
-      "purpose": "any"
+      "src": "/assets/images/favicons/ios/76.png",
+      "sizes": "76x76"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/52d36d89-dc91-43c8-a6be-67c00fa2ece6",
-      "type": "image/png",
-      "sizes": "80x80",
-      "purpose": "any"
+      "src": "/assets/images/favicons/ios/80.png",
+      "sizes": "80x80"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/c569d29e-b253-4252-bbe3-9760c0bffc6d",
-      "type": "image/png",
-      "sizes": "87x87",
-      "purpose": "any"
+      "src": "/assets/images/favicons/ios/87.png",
+      "sizes": "87x87"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/1bc57a8c-c7cd-40ad-a3dd-048dcf422790",
-      "type": "image/png",
-      "sizes": "100x100",
-      "purpose": "any"
+      "src": "/assets/images/favicons/ios/100.png",
+      "sizes": "100x100"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/71079941-6120-42a4-bdd2-dac4d68992c7",
-      "type": "image/png",
-      "sizes": "114x114",
-      "purpose": "any"
+      "src": "/assets/images/favicons/ios/114.png",
+      "sizes": "114x114"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/d1fb08ef-def2-4411-9ec6-cc8ad8660191",
-      "type": "image/png",
-      "sizes": "120x120",
-      "purpose": "any"
+      "src": "/assets/images/favicons/ios/120.png",
+      "sizes": "120x120"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/be9af1fe-6a12-4f27-94e7-d77dd67e3f5e",
-      "type": "image/png",
-      "sizes": "128x128",
-      "purpose": "any"
+      "src": "/assets/images/favicons/ios/128.png",
+      "sizes": "128x128"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/2e4a759c-04fc-4cd2-b6d5-67f3a1481070",
-      "type": "image/png",
-      "sizes": "144x144",
-      "purpose": "any"
+      "src": "/assets/images/favicons/ios/144.png",
+      "sizes": "144x144"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/916122f8-e7d1-43bd-8d3d-4e32d6c90807",
-      "type": "image/png",
-      "sizes": "152x152",
-      "purpose": "any"
+      "src": "/assets/images/favicons/ios/152.png",
+      "sizes": "152x152"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/f77e7650-58b5-4e51-a2ec-b4fe8ad87922",
-      "type": "image/png",
-      "sizes": "167x167",
-      "purpose": "any"
+      "src": "/assets/images/favicons/ios/167.png",
+      "sizes": "167x167"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/09cf7c26-a520-4310-a542-006fcacf8d51",
-      "type": "image/png",
-      "sizes": "180x180",
-      "purpose": "any"
+      "src": "/assets/images/favicons/ios/180.png",
+      "sizes": "180x180"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/bc1f3d7b-243d-40cc-bc8a-17ecd463f5f6",
-      "type": "image/png",
-      "sizes": "192x192",
-      "purpose": "any"
+      "src": "/assets/images/favicons/ios/192.png",
+      "sizes": "192x192"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/13eef964-849d-4b8d-a1dd-02fee64246e6",
-      "type": "image/png",
-      "sizes": "256x256",
-      "purpose": "any"
+      "src": "/assets/images/favicons/ios/256.png",
+      "sizes": "256x256"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/9122c490-b23a-4fde-8ebc-895633bdc2c6",
-      "type": "image/png",
-      "sizes": "512x512",
-      "purpose": "any"
+      "src": "/assets/images/favicons/ios/512.png",
+      "sizes": "512x512"
     },
     {
-      "src": "blob:https://www.pwabuilder.com/31865ca9-b22f-4198-afe4-546d1df51b61",
-      "type": "image/png",
-      "sizes": "1024x1024",
-      "purpose": "any"
+      "src": "/assets/images/favicons/ios/1024.png",
+      "sizes": "1024x1024"
     }
   ],
   "shortcuts": [],
