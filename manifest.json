@@ -15,6 +15,21 @@
       "type": "image/png"
     },
     {
+      "src": "/assets/images/favicons/screenshot-mobile2.png",
+      "sizes": "631x1280",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/images/favicons/screenshot-mobile3.png",
+      "sizes": "631x1280",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/images/favicons/screenshot-mobile4.png",
+      "sizes": "631x1280",
+      "type": "image/png"
+    },
+    {
       "src": "/assets/images/favicons/screenshot-wide.png",
       "sizes": "1280x720",
       "type": "image/png"
@@ -484,6 +499,6 @@
       "url": "/contact.html"
     }
   ],
-  "description": "رزومه مهدی اله وردی",
+  "description": "سلام و احترام ،این وب سایت جهت معرفی و رزومه بنده مهدی اله وردی (اله ورن) می باشد.",
   "dir": "rtl"
 }
